@@ -1,4 +1,12 @@
 print("Hello, yerkin!")
+print("Hello, a todos!")
+print("This isads a test file.")
+print("Let's see if it works correctly.")
+print("All tests passed successfully!")
+print("End of the test file.")
+
+print("Hello, yerkin!")
+print("Hello, a todos!")
 print("This isads a test file.")
 print("Let's see if it works correctly.")
 print("All tests passed successfully!")
